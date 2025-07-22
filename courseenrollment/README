@@ -1,0 +1,14 @@
+# Course Enrollment System
+
+A simple Spring Boot application for managing courses and student enrollments.
+
+## Requirements
+- Java 17+
+- MySQL 8+
+- Maven
+
+## Setup
+1. Create a MySQL database named `course_enrollment_db`
+2. Update database credentials in `application.properties`
+3. Run the application:
+   - mvn spring-boot:run
